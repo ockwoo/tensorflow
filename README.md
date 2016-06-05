@@ -11,6 +11,7 @@
 ## Jupiter
 
 **matplotlib mode**
+
 To make plots using Matpolib, you must first enable IPython's matplotlib mode.
 ```python
 %matploblit inline
